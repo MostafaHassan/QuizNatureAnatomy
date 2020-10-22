@@ -1,0 +1,94 @@
+{
+    "Bodies": [
+        {
+            "BodyName": "Knäled",
+            "BodyDescription": "Detta skelett är blablabla",
+            "BodyBones": [
+                {
+                    "BoneName": "Inre menisk",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "knäled",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Knäskål",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Knäskålsband",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Korsband",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Lårben",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Quadricepssena",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Skenben",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Vadben",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Yttre ledband",
+                    "BoneDescription": "Detta ben är blablabla"
+                },
+                {
+                    "BoneName": "Yttre menisk",
+                    "BoneDescription": "Detta ben är blablabla"
+                }
+            ]
+        },
+        {
+            "BodyName": "Disk 1",
+            "BodyDescription": "Detta skelett är blablabla",
+            "BodyBones": [
+                {
+                    "BoneName": "Disk 1",
+                    "BoneDescription": "Detta ben är blablabla"
+                }
+            ]
+        },
+        {
+            "BodyName": "Kota 1",
+            "BodyDescription": "Detta skelett är blablabla",
+            "BodyBones": [
+                {
+                    "BoneName": "Kota 1",
+                    "BoneDescription": "Detta ben är blablabla"
+                }
+            ]
+        },
+        {
+            "BodyName": "Kota 2",
+            "BodyDescription": "Detta skelett är blablabla",
+            "BodyBones": [
+                {
+                    "BoneName": "Kota 2",
+                    "BoneDescription": "Detta ben är blablabla"
+                }
+            ]
+        },
+        {
+            "BodyName": "Nerv",
+            "BodyDescription": "Detta skelett är blablabla",
+            "BodyBones": [
+                {
+                    "BoneName": "Nerv",
+                    "BoneDescription": "Detta ben är blablabla"
+                }
+            ]
+        }
+    ]
+}
