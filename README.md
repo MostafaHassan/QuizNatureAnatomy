@@ -8,9 +8,10 @@ There are settings to make it more like a game or more like a test.
 ## Features
 
 ## Getting started
+
 ### Run application
 
-### Get the project up and running on you rlocal machine
+### Get the project up and running on your local machine
 
 ### Requirements
 * Unity >= 2019.3
